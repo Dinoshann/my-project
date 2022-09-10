@@ -1,5 +1,7 @@
 from Bus import Bus
 
-Bus = Bus('A')
+Bus1 = Bus('A')
+Bus2 = Bus('B')
 print ('Hello')
-print(Bus.value)
+print(Bus1.value)
+print(Bus2.value)
