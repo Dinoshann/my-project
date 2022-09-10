@@ -1,3 +1,5 @@
-value = 10
+from Bus import Bus
+
+Bus = Bus('A')
 print ('Hello')
-print(value)
+print(Bus.value)
